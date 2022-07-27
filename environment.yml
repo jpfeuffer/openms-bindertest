@@ -6,5 +6,6 @@ channels:
 dependencies:
   - python=3.9
   - libopenms
+  - xeus-cling=0.13.0
   - numpy=1.21.*
   - pip
