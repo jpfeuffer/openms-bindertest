@@ -1,4 +1,4 @@
-name: stats2
+name: openms
 channels:
   - bioconda
   - conda-forge
@@ -6,6 +6,7 @@ channels:
 dependencies:
   - python=3.9
   - libopenms
+  - libsvm
   - xeus-cling=0.13.0
   - numpy=1.21.*
   - pip
